@@ -1,0 +1,811 @@
+ID   KCNA1_HUMAN             Reviewed;         495 AA.
+AC   Q09470; A6NM83; Q3MIQ9;
+DT   01-NOV-1995, integrated into UniProtKB/Swiss-Prot.
+DT   10-FEB-2009, sequence version 2.
+DT   02-NOV-2016, entry version 174.
+DE   RecName: Full=Potassium voltage-gated channel subfamily A member 1;
+DE   AltName: Full=Voltage-gated K(+) channel HuKI {ECO:0000303|PubMed:19912772};
+DE   AltName: Full=Voltage-gated potassium channel HBK1 {ECO:0000303|PubMed:2128063};
+DE   AltName: Full=Voltage-gated potassium channel subunit Kv1.1;
+GN   Name=KCNA1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, SUBCELLULAR LOCATION, AND ENZYME
+RP   REGULATION.
+RC   TISSUE=Brain;
+RX   PubMed=19912772; DOI=10.1016/1044-7431(90)90004-N;
+RA   Ramaswami M., Gautam M., Kamb A., Rudy B., Tanouye M.A., Mathew M.K.;
+RT   "Human potassium channel genes: molecular cloning and functional
+RT   expression.";
+RL   Mol. Cell. Neurosci. 1:214-223(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16541075; DOI=10.1038/nature04569;
+RA   Scherer S.E., Muzny D.M., Buhay C.J., Chen R., Cree A., Ding Y.,
+RA   Dugan-Rocha S., Gill R., Gunaratne P., Harris R.A., Hawes A.C.,
+RA   Hernandez J., Hodgson A.V., Hume J., Jackson A., Khan Z.M.,
+RA   Kovar-Smith C., Lewis L.R., Lozado R.J., Metzker M.L.,
+RA   Milosavljevic A., Miner G.R., Montgomery K.T., Morgan M.B.,
+RA   Nazareth L.V., Scott G., Sodergren E., Song X.-Z., Steffen D.,
+RA   Lovering R.C., Wheeler D.A., Worley K.C., Yuan Y., Zhang Z.,
+RA   Adams C.Q., Ansari-Lari M.A., Ayele M., Brown M.J., Chen G., Chen Z.,
+RA   Clerc-Blankenburg K.P., Davis C., Delgado O., Dinh H.H., Draper H.,
+RA   Gonzalez-Garay M.L., Havlak P., Jackson L.R., Jacob L.S., Kelly S.H.,
+RA   Li L., Li Z., Liu J., Liu W., Lu J., Maheshwari M., Nguyen B.-V.,
+RA   Okwuonu G.O., Pasternak S., Perez L.M., Plopper F.J.H., Santibanez J.,
+RA   Shen H., Tabor P.E., Verduzco D., Waldron L., Wang Q., Williams G.A.,
+RA   Zhang J., Zhou J., Allen C.C., Amin A.G., Anyalebechi V., Bailey M.,
+RA   Barbaria J.A., Bimage K.E., Bryant N.P., Burch P.E., Burkett C.E.,
+RA   Burrell K.L., Calderon E., Cardenas V., Carter K., Casias K.,
+RA   Cavazos I., Cavazos S.R., Ceasar H., Chacko J., Chan S.N., Chavez D.,
+RA   Christopoulos C., Chu J., Cockrell R., Cox C.D., Dang M.,
+RA   Dathorne S.R., David R., Davis C.M., Davy-Carroll L., Deshazo D.R.,
+RA   Donlin J.E., D'Souza L., Eaves K.A., Egan A., Emery-Cohen A.J.,
+RA   Escotto M., Flagg N., Forbes L.D., Gabisi A.M., Garza M., Hamilton C.,
+RA   Henderson N., Hernandez O., Hines S., Hogues M.E., Huang M.,
+RA   Idlebird D.G., Johnson R., Jolivet A., Jones S., Kagan R., King L.M.,
+RA   Leal B., Lebow H., Lee S., LeVan J.M., Lewis L.C., London P.,
+RA   Lorensuhewa L.M., Loulseged H., Lovett D.A., Lucier A., Lucier R.L.,
+RA   Ma J., Madu R.C., Mapua P., Martindale A.D., Martinez E., Massey E.,
+RA   Mawhiney S., Meador M.G., Mendez S., Mercado C., Mercado I.C.,
+RA   Merritt C.E., Miner Z.L., Minja E., Mitchell T., Mohabbat F.,
+RA   Mohabbat K., Montgomery B., Moore N., Morris S., Munidasa M.,
+RA   Ngo R.N., Nguyen N.B., Nickerson E., Nwaokelemeh O.O., Nwokenkwo S.,
+RA   Obregon M., Oguh M., Oragunye N., Oviedo R.J., Parish B.J.,
+RA   Parker D.N., Parrish J., Parks K.L., Paul H.A., Payton B.A., Perez A.,
+RA   Perrin W., Pickens A., Primus E.L., Pu L.-L., Puazo M., Quiles M.M.,
+RA   Quiroz J.B., Rabata D., Reeves K., Ruiz S.J., Shao H., Sisson I.,
+RA   Sonaike T., Sorelle R.P., Sutton A.E., Svatek A.F., Svetz L.A.,
+RA   Tamerisa K.S., Taylor T.R., Teague B., Thomas N., Thorn R.D.,
+RA   Trejos Z.Y., Trevino B.K., Ukegbu O.N., Urban J.B., Vasquez L.I.,
+RA   Vera V.A., Villasana D.M., Wang L., Ward-Moore S., Warren J.T.,
+RA   Wei X., White F., Williamson A.L., Wleczyk R., Wooden H.S.,
+RA   Wooden S.H., Yen J., Yoon L., Yoon V., Zorrilla S.E., Nelson D.,
+RA   Kucherlapati R., Weinstock G., Gibbs R.A.;
+RT   "The finished DNA sequence of human chromosome 12.";
+RL   Nature 440:346-351(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain cortex;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 263-315.
+RX   PubMed=2128063;
+RA   Freeman S.N., Conley E.C., Brennand J.C., Russell N.J.W.,
+RA   Brammar W.J.;
+RT   "Cloning and characterization of a cDNA encoding a human brain
+RT   potassium channel.";
+RL   Biochem. Soc. Trans. 18:891-892(1990).
+RN   [6]
+RP   INTERACTION WITH KCNA2 AND KCNAB2, SUBUNIT, SUBCELLULAR LOCATION, AND
+RP   TISSUE SPECIFICITY.
+RX   PubMed=11086297;
+RX   DOI=10.1002/1096-9861(20000101)429:1<166::AID-CNE13>3.0.CO;2-Y;
+RA   Rasband M.N., Trimmer J.S.;
+RT   "Subunit composition and novel localization of K+ channels in spinal
+RT   cord.";
+RL   J. Comp. Neurol. 429:166-176(2001).
+RN   [7]
+RP   RNA EDITING OF POSITION 400.
+RX   PubMed=12907802; DOI=10.1126/science.1086763;
+RA   Hoopengardner B., Bhalla T., Staber C., Reenan R.;
+RT   "Nervous system targets of RNA editing identified by comparative
+RT   genomics.";
+RL   Science 301:832-836(2003).
+RN   [8]
+RP   PALMITOYLATION AT CYS-243, MUTAGENESIS OF 35-CYS--CYS-36 AND CYS-243,
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=15837928; DOI=10.1073/pnas.0501999102;
+RA   Gubitosi-Klug R.A., Mancuso D.J., Gross R.W.;
+RT   "The human Kv1.1 channel is palmitoylated, modulating voltage sensing:
+RT   Identification of a palmitoylation consensus sequence.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:5964-5968(2005).
+RN   [9]
+RP   REVIEW.
+RX   PubMed=17917103; DOI=10.1007/s12035-007-8001-0;
+RA   Baranauskas G.;
+RT   "Ionic channel function in action potential generation: current
+RT   perspective.";
+RL   Mol. Neurobiol. 35:129-150(2007).
+RN   [10]
+RP   INTERACTION WITH KCNRG, FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=19968958; DOI=10.1016/j.bbrc.2009.11.143;
+RA   Usman H., Mathew M.K.;
+RT   "Potassium channel regulator KCNRG regulates surface expression of
+RT   Shaker-type potassium channels.";
+RL   Biochem. Biophys. Res. Commun. 391:1301-1305(2010).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=21106501; DOI=10.1093/brain/awq318;
+RA   Tomlinson S.E., Tan S.V., Kullmann D.M., Griggs R.C., Burke D.,
+RA   Hanna M.G., Bostock H.;
+RT   "Nerve excitability studies characterize Kv1.1 fast potassium channel
+RT   dysfunction in patients with episodic ataxia type 1.";
+RL   Brain 133:3530-3540(2010).
+RN   [12]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=21483673; DOI=10.1371/journal.pone.0018213;
+RA   Ma Z., Lavebratt C., Almgren M., Portwood N., Forsberg L.E.,
+RA   Branstrom R., Berglund E., Falkmer S., Sundler F., Wierup N.,
+RA   Bjorklund A.;
+RT   "Evidence for presence and functional effects of Kv1.1 channels in
+RT   beta-cells: general survey and results from mceph/mceph mice.";
+RL   PLoS ONE 6:E18213-E18213(2011).
+RN   [13]
+RP   SUBCELLULAR LOCATION, PHOSPHORYLATION AT SER-446, AND MUTAGENESIS OF
+RP   SER-446.
+RX   PubMed=23774215; DOI=10.1158/0008-5472.CAN-12-3690;
+RA   Lallet-Daher H., Wiel C., Gitenay D., Navaratnam N., Augert A.,
+RA   Le Calve B., Verbeke S., Carling D., Aubert S., Vindrieux D.,
+RA   Bernard D.;
+RT   "Potassium channel KCNA1 modulates oncogene-induced senescence and
+RT   transformation.";
+RL   Cancer Res. 73:5253-5265(2013).
+RN   [14]
+RP   INTERACTION WITH ANK3, FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=23903368; DOI=10.1038/ki.2013.280;
+RA   San-Cristobal P., Lainez S., Dimke H., de Graaf M.J., Hoenderop J.G.,
+RA   Bindels R.J.;
+RT   "Ankyrin-3 is a novel binding partner of the voltage-gated potassium
+RT   channel Kv1.1 implicated in renal magnesium handling.";
+RL   Kidney Int. 85:94-102(2014).
+RN   [15]
+RP   VARIANTS EA1 PHE-174; SER-239; ILE-249 AND ALA-408.
+RX   PubMed=7842011; DOI=10.1038/ng1094-136;
+RA   Browne D.L., Gancher S.T., Nutt J.G., Brunt E.R.P., Smith E.A.,
+RA   Kramer P., Litt M.;
+RT   "Episodic ataxia/myokymia syndrome is associated with point mutations
+RT   in the human potassium channel gene, KCNA1.";
+RL   Nat. Genet. 8:136-140(1994).
+RN   [16]
+RP   VARIANTS EA1 PHE-174; CYS-184 AND ASP-325.
+RX   PubMed=8541859; DOI=10.1093/hmg/4.9.1671;
+RA   Browne D.L., Brunt E.R.P., Griggs R.C., Nutt J.G., Gancher S.T.,
+RA   Smith E.A., Litt M.;
+RT   "Identification of two new KCNA1 mutations in episodic ataxia/myokymia
+RT   families.";
+RL   Hum. Mol. Genet. 4:1671-1672(1995).
+RN   [17]
+RP   CHARACTERIZATION OF VARIANTS EA1 CYS-184; ASP-325 AND ALA-408.
+RX   PubMed=8845167; DOI=10.1016/0896-6273(95)90022-5;
+RA   Adelman J.P., Bond C.T., Pessia M., Maylie J.;
+RT   "Episodic ataxia results from voltage-dependent potassium channels
+RT   with altered functions.";
+RL   Neuron 15:1449-1454(1995).
+RN   [18]
+RP   VARIANT EA1 MET-226.
+RX   PubMed=8871592; DOI=10.1002/ana.410400422;
+RA   Comu S., Giuliani M., Narayanan V.;
+RT   "Episodic ataxia and myokymia syndrome: a new mutation of potassium
+RT   channel gene Kv1.1.";
+RL   Ann. Neurol. 40:684-687(1996).
+RN   [19]
+RP   VARIANTS EA1 ARG-177; ALA-226 AND ILE-404.
+RX   PubMed=9600245; DOI=10.1007/s004390050722;
+RA   Scheffer H., Brunt E.R.P., Mol G.J.J., van der Vlies P., Stulp R.P.,
+RA   Verlind E., Mantel G., Averyanov Y.N., Hofstra R.M.W., Buys C.H.C.M.;
+RT   "Three novel KCNA1 mutations in episodic ataxia type I families.";
+RL   Hum. Genet. 102:464-466(1998).
+RN   [20]
+RP   VARIANT EA1 ARG-226, AND CHARACTERIZATION OF VARIANT EA1 ARG-226.
+RX   PubMed=10355668; DOI=10.1093/brain/122.5.817;
+RA   Zuberi S.M., Eunson L.H., Spauschus A., De Silva R., Tolmie J.,
+RA   Wood N.W., McWilliam R.C., Stephenson J.P.B., Kullmann D.M.,
+RA   Hanna M.G.;
+RT   "A novel mutation in the human voltage-gated potassium channel gene
+RT   (Kv1.1) associates with episodic ataxia type 1 and sometimes with
+RT   partial epilepsy.";
+RL   Brain 122:817-825(1999).
+RN   [21]
+RP   VARIANTS MK1 PRO-242 AND HIS-244, VARIANT EA1 ILE-404,
+RP   CHARACTERIZATION OF VARIANTS MK1 PRO-242 AND HIS-244, CHARACTERIZATION
+RP   OF VARIANT EA1 ILE-404, AND FUNCTION.
+RX   PubMed=11026449;
+RX   DOI=10.1002/1531-8249(200010)48:4<647::AID-ANA12>3.3.CO;2-H;
+RA   Eunson L.H., Rea R., Zuberi S.M., Youroukos S., Panayiotopoulos C.P.,
+RA   Liguori R., Avoni P., McWilliam R.C., Stephenson J.B.P., Hanna M.G.,
+RA   Kullmann D.M., Spauschus A.;
+RT   "Clinical, genetic, and expression studies of mutations in the
+RT   potassium channel gene KCNA1 reveal new phenotypic variability.";
+RL   Ann. Neurol. 48:647-656(2000).
+RN   [22]
+RP   VARIANT EA1 ILE-329.
+RX   PubMed=11013453;
+RX   DOI=10.1002/1098-1004(200010)16:4<374::AID-HUMU15>3.3.CO;2-W;
+RA   Knight M.A., Storey E., McKinlay Gardner R.J., Hand P., Forrest S.M.;
+RT   "Identification of a novel missense mutation L329I in the episodic
+RT   ataxia type 1 gene KCNA1 -- a challenging problem.";
+RL   Hum. Mutat. 16:374-374(2000).
+RN   [23]
+RP   CHARACTERIZATION OF VARIANTS EA1 ASP-325 AND ALA-408, FUNCTION,
+RP   SUBCELLULAR LOCATION, SUBUNIT, AND INTERACTION WITH KCNAB1.
+RX   PubMed=12077175;
+RA   Maylie B., Bissonnette E., Virk M., Adelman J.P., Maylie J.G.;
+RT   "Episodic ataxia type 1 mutations in the human Kv1.1 potassium channel
+RT   alter hKvbeta 1-induced N-type inactivation.";
+RL   J. Neurosci. 22:4786-4793(2002).
+RN   [24]
+RP   VARIANT EA1 ILE-342.
+RX   PubMed=15532032; DOI=10.1002/humu.9295;
+RA   Lee H., Wang H., Jen J.C., Sabatti C., Baloh R.W., Nelson S.F.;
+RT   "A novel mutation in KCNA1 causes episodic ataxia without myokymia.";
+RL   Hum. Mutat. 24:536-536(2004).
+RN   [25]
+RP   CHARACTERIZATION OF VARIANTS EA1 ASP-325; ILE-404 AND ALA-408,
+RP   MUTAGENESIS OF ILE-177, FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=17156368; DOI=10.1111/j.1460-9568.2006.05186.x;
+RA   Imbrici P., D'Adamo M.C., Kullmann D.M., Pessia M.;
+RT   "Episodic ataxia type 1 mutations in the KCNA1 gene impair the fast
+RT   inactivation properties of the human potassium channels Kv1.4-
+RT   1.1/Kvbeta1.1 and Kv1.4-1.1/Kvbeta1.2.";
+RL   Eur. J. Neurosci. 24:3073-3083(2006).
+RN   [26]
+RP   VARIANT MK1 LYS-226, CHARACTERIZATION OF VARIANT MK1 LYS-226,
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=17136396; DOI=10.1007/s10048-006-0071-z;
+RA   Chen H., von Hehn C., Kaczmarek L.K., Ment L.R., Pober B.R.,
+RA   Hisama F.M.;
+RT   "Functional analysis of a novel potassium channel (KCNA1) mutation in
+RT   hereditary myokymia.";
+RL   Neurogenetics 8:131-135(2007).
+RN   [27]
+RP   VARIANT MK1 ASP-255, CHARACTERIZATION OF VARIANT MK1 ASP-255,
+RP   FUNCTION, SUBCELLULAR LOCATION, AND ENZYME REGULATION.
+RX   PubMed=19307729; DOI=10.1172/JCI36948;
+RA   Glaudemans B., van der Wijst J., Scola R.H., Lorenzoni P.J.,
+RA   Heister A., van der Kemp A.W., Knoers N.V., Hoenderop J.G.,
+RA   Bindels R.J.;
+RT   "A missense mutation in the Kv1.1 voltage-gated potassium channel-
+RT   encoding gene KCNA1 is linked to human autosomal dominant
+RT   hypomagnesemia.";
+RL   J. Clin. Invest. 119:936-942(2009).
+RN   [28]
+RP   CHARACTERIZATION OF VARIANT MK1 ASP-255, MUTAGENESIS OF ASN-255,
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=19903818; DOI=10.1074/jbc.M109.041517;
+RA   van der Wijst J., Glaudemans B., Venselaar H., Nair A.V., Forst A.L.,
+RA   Hoenderop J.G., Bindels R.J.;
+RT   "Functional analysis of the Kv1.1 N255D mutation associated with
+RT   autosomal dominant hypomagnesemia.";
+RL   J. Biol. Chem. 285:171-178(2010).
+CC   -!- FUNCTION: Voltage-gated potassium channel that mediates
+CC       transmembrane potassium transport in excitable membranes,
+CC       primarily in the brain and the central nervous system, but also in
+CC       the kidney (PubMed:19903818). Contributes to the regulation of the
+CC       membrane potential and nerve signaling, and prevents neuronal
+CC       hyperexcitability (PubMed:17156368). Forms tetrameric potassium-
+CC       selective channels through which potassium ions pass in accordance
+CC       with their electrochemical gradient. The channel alternates
+CC       between opened and closed conformations in response to the voltage
+CC       difference across the membrane (PubMed:19912772). Can form
+CC       functional homotetrameric channels and heterotetrameric channels
+CC       that contain variable proportions of KCNA1, KCNA2, KCNA4, KCNA5,
+CC       KCNA6, KCNA7, and possibly other family members as well; channel
+CC       properties depend on the type of alpha subunits that are part of
+CC       the channel (PubMed:12077175, PubMed:17156368). Channel properties
+CC       are modulated by cytoplasmic beta subunits that regulate the
+CC       subcellular location of the alpha subunits and promote rapid
+CC       inactivation of delayed rectifier potassium channels
+CC       (PubMed:12077175, PubMed:17156368). In vivo, membranes probably
+CC       contain a mixture of heteromeric potassium channel complexes,
+CC       making it difficult to assign currents observed in intact tissues
+CC       to any particular potassium channel family member. Homotetrameric
+CC       KCNA1 forms a delayed-rectifier potassium channel that opens in
+CC       response to membrane depolarization, followed by slow spontaneous
+CC       channel closure (PubMed:19912772, PubMed:19968958,
+CC       PubMed:19307729, PubMed:19903818). In contrast, a heterotetrameric
+CC       channel formed by KCNA1 and KCNA4 shows rapid inactivation
+CC       (PubMed:17156368). Regulates neuronal excitability in hippocampus,
+CC       especially in mossy fibers and medial perforant path axons,
+CC       preventing neuronal hyperexcitability. Response to toxins that are
+CC       selective for KCNA1, respectively for KCNA2, suggests that
+CC       heteromeric potassium channels composed of both KCNA1 and KCNA2
+CC       play a role in pacemaking and regulate the output of deep
+CC       cerebellar nuclear neurons (By similarity). May function as down-
+CC       stream effector for G protein-coupled receptors and inhibit
+CC       GABAergic inputs to basolateral amygdala neurons (By similarity).
+CC       May contribute to the regulation of neurotransmitter release, such
+CC       as gamma-aminobutyric acid (GABA) release (By similarity). Plays a
+CC       role in regulating the generation of action potentials and
+CC       preventing hyperexcitability in myelinated axons of the vagus
+CC       nerve, and thereby contributes to the regulation of heart
+CC       contraction (By similarity). Required for normal neuromuscular
+CC       responses (PubMed:11026449, PubMed:17136396). Regulates the
+CC       frequency of neuronal action potential firing in response to
+CC       mechanical stimuli, and plays a role in the perception of pain
+CC       caused by mechanical stimuli, but does not play a role in the
+CC       perception of pain due to heat stimuli (By similarity). Required
+CC       for normal responses to auditory stimuli and precise location of
+CC       sound sources, but not for sound perception (By similarity). The
+CC       use of toxins that block specific channels suggest that it
+CC       contributes to the regulation of the axonal release of the
+CC       neurotransmitter dopamine (By similarity). Required for normal
+CC       postnatal brain development and normal proliferation of neuronal
+CC       precursor cells in the brain (By similarity). Plays a role in the
+CC       reabsorption of Mg(2+) in the distal convoluted tubules in the
+CC       kidney and in magnesium ion homeostasis, probably via its effect
+CC       on the membrane potential (PubMed:23903368, PubMed:19307729).
+CC       {ECO:0000250|UniProtKB:P10499, ECO:0000269|PubMed:11026449,
+CC       ECO:0000269|PubMed:12077175, ECO:0000269|PubMed:15837928,
+CC       ECO:0000269|PubMed:17136396, ECO:0000269|PubMed:17156368,
+CC       ECO:0000269|PubMed:19307729, ECO:0000269|PubMed:19903818,
+CC       ECO:0000269|PubMed:19912772, ECO:0000269|PubMed:19968958,
+CC       ECO:0000269|PubMed:21106501, ECO:0000269|PubMed:23903368}.
+CC   -!- ENZYME REGULATION: Inhibited by 1.1 mM 4-aminopyridine (4-AP) and
+CC       by 20 mM tetraethylammonium (TEA), but not by charybdotoxin
+CC       (CTX)(PubMed:19912772). Inhibited by dendrotoxin (DTX)
+CC       (PubMed:19307729). {ECO:0000269|PubMed:19307729,
+CC       ECO:0000269|PubMed:19912772}.
+CC   -!- SUBUNIT: Homotetramer and heterotetramer with other channel-
+CC       forming alpha subunits, such as KCNA2, KCNA4, KCNA5, KCNA6 and
+CC       KCNA7 (PubMed:12077175, PubMed:17156368). Channel activity is
+CC       regulated by interaction with the beta subunits KCNAB1 and KCNAB2
+CC       (PubMed:12077175, PubMed:17156368). Identified in a complex with
+CC       KCNA2 and KCNAB2 (PubMed:11086297). Interacts (via C-terminus)
+CC       with the PDZ domains of DLG1, DLG2 and DLG4 (By similarity).
+CC       Interacts with LGI1 within a complex containing LGI1, KCNA4 and
+CC       KCNAB1 (By similarity). Interacts (via N-terminus) with STX1A;
+CC       this promotes channel inactivation (By similarity). Interacts (via
+CC       N-terminus) with the heterodimer formed by GNB1 and GNG2; this
+CC       promotes channel inactivation (By similarity). Can interact
+CC       simultaneously with STX1A and the heterodimer formed by GNB1 and
+CC       GNG2 (By similarity). Interacts (via cytoplasmic N-terminal
+CC       domain) with KCNRG; this inhibits channel activity
+CC       (PubMed:19968958). Interacts with ANK3; this inhibits channel
+CC       activity (PubMed:23903368). {ECO:0000250|UniProtKB:P10499,
+CC       ECO:0000269|PubMed:11086297, ECO:0000269|PubMed:17156368,
+CC       ECO:0000269|PubMed:19968958, ECO:0000269|PubMed:23903368,
+CC       ECO:0000305}.
+CC   -!- INTERACTION:
+CC       Q62936:Dlg3 (xeno); NbExp=2; IntAct=EBI-8286599, EBI-349596;
+CC       P78352:DLG4; NbExp=2; IntAct=EBI-8286599, EBI-80389;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:12077175,
+CC       ECO:0000269|PubMed:15837928, ECO:0000269|PubMed:17136396,
+CC       ECO:0000269|PubMed:17156368, ECO:0000269|PubMed:19307729,
+CC       ECO:0000269|PubMed:19903818, ECO:0000269|PubMed:19912772,
+CC       ECO:0000269|PubMed:19968958, ECO:0000269|PubMed:23903368}; Multi-
+CC       pass membrane protein {ECO:0000305}. Membrane
+CC       {ECO:0000269|PubMed:11086297}. Cell projection, axon
+CC       {ECO:0000269|PubMed:11086297}. Cytoplasmic vesicle
+CC       {ECO:0000269|PubMed:23774215}. Perikaryon
+CC       {ECO:0000250|UniProtKB:P10499}. Endoplasmic reticulum
+CC       {ECO:0000250|UniProtKB:P10499}. Cell projection, dendrite
+CC       {ECO:0000250|UniProtKB:P16388}. Cell junction
+CC       {ECO:0000250|UniProtKB:P16388}. Cell junction, synapse
+CC       {ECO:0000250|UniProtKB:P16388}. Cell junction, synapse,
+CC       presynaptic cell membrane {ECO:0000250|UniProtKB:P10499}.
+CC       Note=Homotetrameric KCNA1 is primarily located in the endoplasmic
+CC       reticulum. Interaction with KCNA2 and KCNAB2 or with KCNA4 and
+CC       KCNAB2 promotes expression at the cell membrane (By similarity).
+CC       Detected at axon terminals (By similarity).
+CC       {ECO:0000250|UniProtKB:P10499, ECO:0000250|UniProtKB:P16388}.
+CC   -!- TISSUE SPECIFICITY: Detected adjacent to nodes of Ranvier in
+CC       juxtaparanodal zones in spinal cord nerve fibers, but also in
+CC       paranodal regions in some myelinated spinal cord axons (at protein
+CC       level) (PubMed:11086297). Detected in the islet of Langerhans
+CC       (PubMed:21483673). {ECO:0000269|PubMed:11086297,
+CC       ECO:0000269|PubMed:21483673}.
+CC   -!- DOMAIN: The cytoplasmic N-terminus is important for
+CC       tetramerization and for interaction with the beta subunits that
+CC       promote rapid channel closure. {ECO:0000250|UniProtKB:P10499}.
+CC   -!- DOMAIN: The transmembrane segment S4 functions as voltage-sensor
+CC       and is characterized by a series of positively charged amino acids
+CC       at every third position. Channel opening and closing is effected
+CC       by a conformation change that affects the position and orientation
+CC       of the voltage-sensor paddle formed by S3 and S4 within the
+CC       membrane. A transmembrane electric field that is positive inside
+CC       would push the positively charged S4 segment outwards, thereby
+CC       opening the pore, while a field that is negative inside would pull
+CC       the S4 segment inwards and close the pore. Changes in the position
+CC       and orientation of S4 are then transmitted to the activation gate
+CC       formed by the inner helix bundle via the S4-S5 linker region.
+CC       {ECO:0000250|UniProtKB:P63142}.
+CC   -!- PTM: N-glycosylated. {ECO:0000250|UniProtKB:P10499}.
+CC   -!- PTM: Palmitoylated on Cys-243; which may be required for membrane
+CC       targeting. {ECO:0000269|PubMed:15837928}.
+CC   -!- PTM: Phosphorylated on tyrosine residues. Phosphorylation
+CC       increases in response to NRG1; this inhibits channel activity (By
+CC       similarity). Phosphorylation at Ser-446 regulates channel activity
+CC       by down-regulating expression at the cell membrane
+CC       (PubMed:23774215). {ECO:0000250|UniProtKB:P16388,
+CC       ECO:0000269|PubMed:23774215}.
+CC   -!- RNA EDITING: Modified_positions=400 {ECO:0000269|PubMed:12907802};
+CC       Note=Partially edited. RNA editing varies from 17% in the caudate
+CC       nucleus to 68% in the spinal cord and to 77% in the medulla.;
+CC   -!- DISEASE: Episodic ataxia 1 (EA1) [MIM:160120]: An autosomal
+CC       dominant disorder characterized by brief episodes of ataxia and
+CC       dysarthria. Neurological examination during and between the
+CC       attacks demonstrates spontaneous, repetitive discharges in the
+CC       distal musculature (myokymia) that arise from peripheral nerve.
+CC       Nystagmus is absent. {ECO:0000269|PubMed:10355668,
+CC       ECO:0000269|PubMed:11013453, ECO:0000269|PubMed:11026449,
+CC       ECO:0000269|PubMed:15532032, ECO:0000269|PubMed:7842011,
+CC       ECO:0000269|PubMed:8541859, ECO:0000269|PubMed:8871592,
+CC       ECO:0000269|PubMed:9600245}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Myokymia isolated 1 (MK1) [MIM:160120]: A condition
+CC       characterized by spontaneous involuntary contraction of muscle
+CC       fiber groups that can be observed as vermiform movement of the
+CC       overlying skin. Electromyography typically shows continuous motor
+CC       unit activity with spontaneous oligo- and multiplet-discharges of
+CC       high intraburst frequency (myokymic discharges). Isolated
+CC       spontaneous muscle twitches occur in many persons and have no
+CC       grave significance. {ECO:0000269|PubMed:11026449,
+CC       ECO:0000269|PubMed:17136396, ECO:0000269|PubMed:19307729}.
+CC       Note=The disease is caused by mutations affecting the gene
+CC       represented in this entry.
+CC   -!- MISCELLANEOUS: The delay or D-type current observed in hippocampus
+CC       pyramidal neurons is probably mediated by potassium channels
+CC       containing KCNA2 plus KCNA1 or other family members. It is
+CC       activated at about -50 mV, i.e. below the action potential
+CC       threshold, and is characterized by slow inactivation, extremely
+CC       slow recovery from inactivation, sensitivity to dendrotoxin (DTX)
+CC       and to 4-aminopyridine (4-AP). {ECO:0000305|PubMed:17917103}.
+CC   -!- SIMILARITY: Belongs to the potassium channel family. A (Shaker)
+CC       (TC 1.A.1.2) subfamily. Kv1.1/KCNA1 sub-subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L02750; AAA36139.1; -; mRNA.
+DR   EMBL; AC006063; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471116; EAW88833.1; -; Genomic_DNA.
+DR   EMBL; BC101733; AAI01734.1; -; mRNA.
+DR   EMBL; BC112180; AAI12181.1; -; mRNA.
+DR   CCDS; CCDS8535.1; -.
+DR   PIR; I57680; I57680.
+DR   RefSeq; NP_000208.2; NM_000217.2.
+DR   UniGene; Hs.416139; -.
+DR   PDB; 2AFL; Model; -; A/B/C/D=326-407.
+DR   PDBsum; 2AFL; -.
+DR   ProteinModelPortal; Q09470; -.
+DR   SMR; Q09470; -.
+DR   BioGrid; 109939; 7.
+DR   IntAct; Q09470; 3.
+DR   MINT; MINT-1900397; -.
+DR   STRING; 9606.ENSP00000371985; -.
+DR   BindingDB; Q09470; -.
+DR   ChEMBL; CHEMBL2309; -.
+DR   DrugBank; DB00321; Amitriptyline.
+DR   DrugBank; DB06637; Dalfampridine.
+DR   DrugBank; DB01189; Desflurane.
+DR   DrugBank; DB00228; Enflurane.
+DR   DrugBank; DB00753; Isoflurane.
+DR   DrugBank; DB01028; Methoxyflurane.
+DR   DrugBank; DB01115; Nifedipine.
+DR   DrugBank; DB01236; Sevoflurane.
+DR   GuidetoPHARMACOLOGY; 538; -.
+DR   TCDB; 1.A.1.2.12; the voltage-gated ion channel (vic) superfamily.
+DR   iPTMnet; Q09470; -.
+DR   PhosphoSitePlus; Q09470; -.
+DR   SwissPalm; Q09470; -.
+DR   BioMuta; KCNA1; -.
+DR   DMDM; 223590092; -.
+DR   MaxQB; Q09470; -.
+DR   PaxDb; Q09470; -.
+DR   PeptideAtlas; Q09470; -.
+DR   PRIDE; Q09470; -.
+DR   Ensembl; ENST00000382545; ENSP00000371985; ENSG00000111262.
+DR   GeneID; 3736; -.
+DR   KEGG; hsa:3736; -.
+DR   UCSC; uc001qnh.4; human.
+DR   CTD; 3736; -.
+DR   DisGeNET; 3736; -.
+DR   GeneCards; KCNA1; -.
+DR   GeneReviews; KCNA1; -.
+DR   HGNC; HGNC:6218; KCNA1.
+DR   HPA; CAB022365; -.
+DR   MalaCards; KCNA1; -.
+DR   MIM; 160120; phenotype.
+DR   MIM; 176260; gene.
+DR   neXtProt; NX_Q09470; -.
+DR   OpenTargets; ENSG00000111262; -.
+DR   Orphanet; 37612; Episodic ataxia type 1.
+DR   Orphanet; 972; Hereditary continuous muscle fiber activity.
+DR   Orphanet; 199326; Isolated autosomal dominant hypomagnesemia, Glaudemans type.
+DR   PharmGKB; PA30019; -.
+DR   eggNOG; KOG1545; Eukaryota.
+DR   eggNOG; COG1226; LUCA.
+DR   GeneTree; ENSGT00760000118846; -.
+DR   HOGENOM; HOG000231015; -.
+DR   HOVERGEN; HBG052230; -.
+DR   InParanoid; Q09470; -.
+DR   KO; K04874; -.
+DR   OMA; IHRIDNT; -.
+DR   OrthoDB; EOG091G10NU; -.
+DR   PhylomeDB; Q09470; -.
+DR   TreeFam; TF313103; -.
+DR   BioCyc; ZFISH:ENSG00000111262-MONOMER; -.
+DR   Reactome; R-HSA-1296072; Voltage gated Potassium channels.
+DR   ChiTaRS; KCNA1; human.
+DR   GeneWiki; Kv1.1; -.
+DR   GenomeRNAi; 3736; -.
+DR   PRO; PR:Q09470; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   Bgee; ENSG00000111262; -.
+DR   CleanEx; HS_KCNA1; -.
+DR   Genevisible; Q09470; HS.
+DR   GO; GO:0016324; C:apical plasma membrane; IEA:Ensembl.
+DR   GO; GO:0043679; C:axon terminus; ISS:UniProtKB.
+DR   GO; GO:0030054; C:cell junction; ISS:UniProtKB.
+DR   GO; GO:0009986; C:cell surface; IEA:Ensembl.
+DR   GO; GO:0016023; C:cytoplasmic, membrane-bounded vesicle; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005829; C:cytosol; ISS:UniProtKB.
+DR   GO; GO:0030425; C:dendrite; ISS:UniProtKB.
+DR   GO; GO:0005783; C:endoplasmic reticulum; ISS:UniProtKB.
+DR   GO; GO:0005887; C:integral component of plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0044224; C:juxtaparanode region of axon; IDA:UniProtKB.
+DR   GO; GO:0043025; C:neuronal cell body; ISS:UniProtKB.
+DR   GO; GO:0033270; C:paranode region of axon; IDA:UniProtKB.
+DR   GO; GO:0043204; C:perikaryon; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0042734; C:presynaptic membrane; ISS:UniProtKB.
+DR   GO; GO:0045202; C:synapse; ISS:UniProtKB.
+DR   GO; GO:0008076; C:voltage-gated potassium channel complex; IDA:UniProtKB.
+DR   GO; GO:0005251; F:delayed rectifier potassium channel activity; IDA:UniProtKB.
+DR   GO; GO:0005267; F:potassium channel activity; TAS:ProtInc.
+DR   GO; GO:0015079; F:potassium ion transmembrane transporter activity; TAS:ProtInc.
+DR   GO; GO:0005249; F:voltage-gated potassium channel activity; IDA:UniProtKB.
+DR   GO; GO:0010644; P:cell communication by electrical coupling; ISS:UniProtKB.
+DR   GO; GO:0034613; P:cellular protein localization; IEA:Ensembl.
+DR   GO; GO:0071286; P:cellular response to magnesium ion; ISS:UniProtKB.
+DR   GO; GO:0007268; P:chemical synaptic transmission; TAS:ProtInc.
+DR   GO; GO:0050966; P:detection of mechanical stimulus involved in sensory perception of pain; ISS:UniProtKB.
+DR   GO; GO:0050976; P:detection of mechanical stimulus involved in sensory perception of touch; ISS:UniProtKB.
+DR   GO; GO:0021766; P:hippocampus development; IEA:Ensembl.
+DR   GO; GO:0010960; P:magnesium ion homeostasis; IMP:UniProtKB.
+DR   GO; GO:0007405; P:neuroblast proliferation; IEA:Ensembl.
+DR   GO; GO:0050905; P:neuromuscular process; IMP:UniProtKB.
+DR   GO; GO:0019228; P:neuronal action potential; ISS:UniProtKB.
+DR   GO; GO:0023041; P:neuronal signal transduction; ISS:UniProtKB.
+DR   GO; GO:0071805; P:potassium ion transmembrane transport; IMP:UniProtKB.
+DR   GO; GO:0006813; P:potassium ion transport; TAS:ProtInc.
+DR   GO; GO:0051260; P:protein homooligomerization; IEA:InterPro.
+DR   GO; GO:0042391; P:regulation of membrane potential; IMP:UniProtKB.
+DR   GO; GO:0006937; P:regulation of muscle contraction; ISS:UniProtKB.
+DR   GO; GO:0001964; P:startle response; IEA:Ensembl.
+DR   Gene3D; 1.20.120.350; -; 1.
+DR   InterPro; IPR000210; BTB/POZ_dom.
+DR   InterPro; IPR027359; Channel_four-helix_dom.
+DR   InterPro; IPR005821; Ion_trans_dom.
+DR   InterPro; IPR003968; K_chnl_volt-dep_Kv.
+DR   InterPro; IPR003972; K_chnl_volt-dep_Kv1.
+DR   InterPro; IPR004048; K_chnl_volt-dep_Kv1.1.
+DR   InterPro; IPR011333; SKP1/BTB/POZ.
+DR   InterPro; IPR003131; T1-type_BTB.
+DR   InterPro; IPR028325; VG_K_chnl.
+DR   PANTHER; PTHR11537; PTHR11537; 1.
+DR   Pfam; PF02214; BTB_2; 1.
+DR   Pfam; PF00520; Ion_trans; 1.
+DR   PRINTS; PR00169; KCHANNEL.
+DR   PRINTS; PR01508; KV11CHANNEL.
+DR   PRINTS; PR01491; KVCHANNEL.
+DR   PRINTS; PR01496; SHAKERCHANEL.
+DR   SMART; SM00225; BTB; 1.
+DR   SUPFAM; SSF54695; SSF54695; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell junction; Cell membrane; Cell projection;
+KW   Complete proteome; Cytoplasmic vesicle; Disease mutation;
+KW   Endoplasmic reticulum; Glycoprotein; Ion channel; Ion transport;
+KW   Lipoprotein; Membrane; Palmitate; Phosphoprotein; Polymorphism;
+KW   Potassium; Potassium channel; Potassium transport; Reference proteome;
+KW   RNA editing; Synapse; Transmembrane; Transmembrane helix; Transport;
+KW   Voltage-gated channel.
+FT   CHAIN         1    495       Potassium voltage-gated channel subfamily
+FT                                A member 1.
+FT                                /FTId=PRO_0000053968.
+FT   TOPO_DOM      1    164       Cytoplasmic.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TRANSMEM    165    186       Helical; Name=Segment S1.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TOPO_DOM    187    220       Extracellular.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TRANSMEM    221    242       Helical; Name=Segment S2.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TOPO_DOM    243    253       Cytoplasmic.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TRANSMEM    254    274       Helical; Name=Segment S3.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TOPO_DOM    275    287       Extracellular.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TRANSMEM    288    308       Helical; Voltage-sensor; Name=Segment S4.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TOPO_DOM    309    323       Cytoplasmic.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TRANSMEM    324    345       Helical; Name=Segment S5.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TOPO_DOM    346    359       Extracellular.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   INTRAMEM    360    371       Helical; Name=Pore helix.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   INTRAMEM    372    379       {ECO:0000250|UniProtKB:P63142}.
+FT   TOPO_DOM    380    386       Extracellular.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TRANSMEM    387    415       Helical; Name=Segment S6.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   TOPO_DOM    416    495       Cytoplasmic.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   REGION        1    128       Tetramerization domain.
+FT                                {ECO:0000250|UniProtKB:P10499}.
+FT   REGION      310    323       S4-S5 linker.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   MOTIF       372    377       Selectivity filter.
+FT                                {ECO:0000250|UniProtKB:P63142}.
+FT   MOTIF       493    495       PDZ-binding. {ECO:0000250}.
+FT   MOD_RES      23     23       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P10499}.
+FT   MOD_RES     322    322       Phosphoserine; by PKA. {ECO:0000255}.
+FT   MOD_RES     437    437       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P10499}.
+FT   MOD_RES     439    439       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P10499}.
+FT   MOD_RES     446    446       Phosphoserine; by PKA.
+FT                                {ECO:0000305|PubMed:23774215}.
+FT   LIPID       243    243       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:15837928}.
+FT   CARBOHYD    207    207       N-linked (GlcNAc...). {ECO:0000255}.
+FT   VARIANT     174    174       V -> F (in EA1; dbSNP:rs104894349).
+FT                                {ECO:0000269|PubMed:7842011,
+FT                                ECO:0000269|PubMed:8541859}.
+FT                                /FTId=VAR_001508.
+FT   VARIANT     177    177       I -> R (in EA1).
+FT                                {ECO:0000269|PubMed:9600245}.
+FT                                /FTId=VAR_001509.
+FT   VARIANT     184    184       F -> C (in EA1; alters voltage dependence
+FT                                and kinetics of activation though not of
+FT                                C-type inactivation; dbSNP:rs104894357).
+FT                                {ECO:0000269|PubMed:8541859,
+FT                                ECO:0000269|PubMed:8845167}.
+FT                                /FTId=VAR_020830.
+FT   VARIANT     204    204       R -> H (in dbSNP:rs2229000).
+FT                                /FTId=VAR_020051.
+FT   VARIANT     226    226       T -> A (in EA1; dbSNP:rs104894354).
+FT                                {ECO:0000269|PubMed:9600245}.
+FT                                /FTId=VAR_001510.
+FT   VARIANT     226    226       T -> K (in MK1; induces a reduced efflux
+FT                                of potassium ions during depolarization
+FT                                which results in increased muscle cell
+FT                                activity; coexpression studies of the
+FT                                mutant protein with the wild-type protein
+FT                                produces significantly reduced currents
+FT                                suggesting a severe effect of the
+FT                                mutation; dbSNP:rs28933383).
+FT                                {ECO:0000269|PubMed:17136396}.
+FT                                /FTId=VAR_037100.
+FT   VARIANT     226    226       T -> M (in EA1; dbSNP:rs28933383).
+FT                                {ECO:0000269|PubMed:8871592}.
+FT                                /FTId=VAR_020831.
+FT   VARIANT     226    226       T -> R (in EA1; yields currents with a
+FT                                largely reduced amplitude;
+FT                                dbSNP:rs28933383).
+FT                                {ECO:0000269|PubMed:10355668}.
+FT                                /FTId=VAR_037101.
+FT   VARIANT     239    239       R -> S (in EA1; dbSNP:rs104894348).
+FT                                {ECO:0000269|PubMed:7842011}.
+FT                                /FTId=VAR_001511.
+FT   VARIANT     242    242       A -> P (in MK1; 10% reduction of mean
+FT                                peak current amplitudes compared to wil-
+FT                                dtype; mutant and wild-type expression
+FT                                together is consistent with a loss-of-
+FT                                function effect of the mutation;
+FT                                dbSNP:rs28933381).
+FT                                {ECO:0000269|PubMed:11026449}.
+FT                                /FTId=VAR_037102.
+FT   VARIANT     244    244       P -> H (in MK1; does not affect channel
+FT                                activity; dbSNP:rs28933382).
+FT                                {ECO:0000269|PubMed:11026449}.
+FT                                /FTId=VAR_037103.
+FT   VARIANT     249    249       F -> I (in EA1; dbSNP:rs104894356).
+FT                                {ECO:0000269|PubMed:7842011}.
+FT                                /FTId=VAR_001512.
+FT   VARIANT     255    255       N -> D (in MK1; strongly reduces the
+FT                                activity of homomeric channels with
+FT                                dominant negative effects on wild-type
+FT                                channels; dbSNP:rs121918067).
+FT                                {ECO:0000269|PubMed:19307729}.
+FT                                /FTId=VAR_072397.
+FT   VARIANT     325    325       E -> D (in EA1; results in non-functional
+FT                                homomeric channels; accelerates recovery
+FT                                from N-type inactivation due to
+FT                                interaction with KCNAB1; slows down N-
+FT                                type inactivation of heteromeric channels
+FT                                formed by KCNA1 and KCNA4;
+FT                                dbSNP:rs104894353).
+FT                                {ECO:0000269|PubMed:12077175,
+FT                                ECO:0000269|PubMed:17156368,
+FT                                ECO:0000269|PubMed:8541859,
+FT                                ECO:0000269|PubMed:8845167}.
+FT                                /FTId=VAR_020832.
+FT   VARIANT     329    329       L -> I (in EA1).
+FT                                {ECO:0000269|PubMed:11013453}.
+FT                                /FTId=VAR_020833.
+FT   VARIANT     342    342       S -> I (in EA1; phenotype without
+FT                                myokymia). {ECO:0000269|PubMed:15532032}.
+FT                                /FTId=VAR_020834.
+FT   VARIANT     400    400       I -> V (in RNA edited version).
+FT                                /FTId=VAR_016805.
+FT   VARIANT     404    404       V -> I (in EA1; results in slower channel
+FT                                activation compared to wild-type; slows
+FT                                down N-type inactivation of heteromeric
+FT                                channels formed by KCNA1 and KCNA4;
+FT                                dbSNP:rs104894355).
+FT                                {ECO:0000269|PubMed:11026449,
+FT                                ECO:0000269|PubMed:17156368,
+FT                                ECO:0000269|PubMed:9600245}.
+FT                                /FTId=VAR_001513.
+FT   VARIANT     408    408       V -> A (in EA1; channels have voltage
+FT                                dependence similar to that of wild-type
+FT                                channels but with faster kinetics and
+FT                                increased C-type inactivation;
+FT                                accelerates recovery from N-type
+FT                                inactivation due to interaction with
+FT                                KCNAB1; slows down N-type inactivation of
+FT                                heteromeric channels formed by KCNA1 and
+FT                                KCNA4; dbSNP:rs104894352).
+FT                                {ECO:0000269|PubMed:12077175,
+FT                                ECO:0000269|PubMed:17156368,
+FT                                ECO:0000269|PubMed:7842011,
+FT                                ECO:0000269|PubMed:8845167}.
+FT                                /FTId=VAR_001514.
+FT   MUTAGEN      35     36       CC->AA: No effect on palmitoylation, no
+FT                                effect on current kinetics.
+FT                                {ECO:0000269|PubMed:15837928}.
+FT   MUTAGEN     177    177       I->N: Slows down N-type inactivation of
+FT                                heteromeric channels formed by KCNA1 and
+FT                                KCNA4. {ECO:0000269|PubMed:17156368}.
+FT   MUTAGEN     243    243       C->A: Strongly decreases palmitoylation
+FT                                and alters current kinetics.
+FT                                {ECO:0000269|PubMed:15837928}.
+FT   MUTAGEN     255    255       N->A,H,T: Slightly increases channel
+FT                                activity, but does not affect expression
+FT                                at the cell membrane.
+FT                                {ECO:0000269|PubMed:19307729}.
+FT   MUTAGEN     255    255       N->E: Abolishes channel activity, but
+FT                                does not affect expression at the cell
+FT                                membrane. {ECO:0000269|PubMed:19307729}.
+FT   MUTAGEN     255    255       N->Q: Strongly reduces channel activity,
+FT                                but does not affect expression at the
+FT                                cell membrane.
+FT                                {ECO:0000269|PubMed:19307729}.
+FT   MUTAGEN     255    255       N->V: No effect on channel activity.
+FT                                {ECO:0000269|PubMed:19307729}.
+FT   MUTAGEN     446    446       S->A: Impairs phosphorylation by PKA.
+FT                                {ECO:0000269|PubMed:23774215}.
+FT   MUTAGEN     446    446       S->E: Impairs expression at the cell
+FT                                membrane. {ECO:0000269|PubMed:23774215}.
+FT   CONFLICT    265    265       Missing (in Ref. 5; no nucleotide entry).
+FT                                {ECO:0000305}.
+FT   CONFLICT    315    315       L -> R (in Ref. 5; no nucleotide entry).
+FT                                {ECO:0000305}.
+FT   CONFLICT    452    452       S -> Y (in Ref. 1; AAA36139).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   495 AA;  56466 MW;  0A1B1AB87BCDDEBA CRC64;
+     MTVMSGENVD EASAAPGHPQ DGSYPRQADH DDHECCERVV INISGLRFET QLKTLAQFPN
+     TLLGNPKKRM RYFDPLRNEY FFDRNRPSFD AILYYYQSGG RLRRPVNVPL DMFSEEIKFY
+     ELGEEAMEKF REDEGFIKEE ERPLPEKEYQ RQVWLLFEYP ESSGPARVIA IVSVMVILIS
+     IVIFCLETLP ELKDDKDFTG TVHRIDNTTV IYNSNIFTDP FFIVETLCII WFSFELVVRF
+     FACPSKTDFF KNIMNFIDIV AIIPYFITLG TEIAEQEGNQ KGEQATSLAI LRVIRLVRVF
+     RIFKLSRHSK GLQILGQTLK ASMRELGLLI FFLFIGVILF SSAVYFAEAE EAESHFSSIP
+     DAFWWAVVSM TTVGYGDMYP VTIGGKIVGS LCAIAGVLTI ALPVPVIVSN FNYFYHRETE
+     GEEQAQLLHV SSPNLASDSD LSRRSSSTMS KSEYMEIEED MNNSIAHYRQ VNIRTANCTT
+     ANQNCVNKSK LLTDV
+//
