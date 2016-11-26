@@ -1,7 +1,7 @@
 # MDA
 
-pip install -r requirements.txt to start 
-Paste in your Uniprot Multiple Sequence Alignment into msa2.txt. 
+- pip install -r requirements.txt to start.  
+- Paste in your Uniprot Multiple Sequence Alignment into msa2.txt. 
 The application runs in a webapp with some graphical table displays or in the command line.
   python3 app.py to run the web app (relies on pasted msa2.txt file) 
 
