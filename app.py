@@ -224,7 +224,7 @@ class MainHandler(tornado.web.RequestHandler):
             self.write('<td>'+item[0]+'</td><td>'+item[1][7:]+'</td><td>'+item[2][5:]+'</td>')
             self.write('</tr>')
         self.write('</table>')
-        self.write("""<style>
+        self.write("""<style> 
 
 #gradient-style
 {
