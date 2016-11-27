@@ -214,7 +214,7 @@ class MainHandler(tornado.web.RequestHandler):
     def get(self):
         self.render("static/index.html")
     def post(self):
-        query = self.get_argument("query")
+        query = self.get_argument("query").strip()
         result = printMDA(query)
         self.write("<h1 text-align='center'>The Toplogy for " + query + "</h1>")
         self.write('<table id="gradient-style" class="Experiments" align="center">')
