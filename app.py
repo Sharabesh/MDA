@@ -14,16 +14,15 @@ import tornado.web
 import json
 
 
-"""Initial web routing framework""" 
 
 # Use secondary structure prediction and blosum 62 sum across a column
-# You can also set a gap character score to 0.
 
 #Yields a list of topological annotations for each item in the text file 
 class Residue:
     def __init__(self,annotation,aa):
         self.annotation = annotation
         self.aa = aa
+#A data structure to represent the a sequence of Residues/indels
 class Sequence:
     def __init__(self,identifier):
         self.sequence = [] #Linked list may have been better data structure, allows for insertion and deletion in constant time
@@ -46,6 +45,7 @@ def msaprocess(): #MSA must be provided in fasta format
     output = [] #A list of sequence objects all annotated
     for record in processed:
         identifier = record.name
+        #Parse the web record for a specific protein's SP annotation
         textrecord = urllib.request.urlopen(LINK.format(record.id))
         topology = process(textrecord)
         gapped_sequence = str(record.seq)
@@ -93,7 +93,7 @@ def generate_rep(sequence, topology,identifier):
         start = item[1]
         end = item[2]
         notation = item[0]
-        for i in range(start,end):
+        for i in range(start - 1, end):
             overall.sequence[i].annotation = notation
 
 
@@ -136,7 +136,7 @@ def mostcommon(hashmap):
 
 
 
-def MDA(query, accuracy = 0.75): #Query is the target identifier
+def MDA(query, accuracy = 0.50): #Query is the target identifier
     #This is where scoring functions will be integrated with the matrix generated
     #from msaprocess()
     topology_matrix = msaprocess()
@@ -167,7 +167,7 @@ def MDA(query, accuracy = 0.75): #Query is the target identifier
                 acids[(x.aa,x.annotation)] += 1
             else:
                 acids[(x.aa,x.annotation)] = 1
-        if similarity(domains,accuracy): #Assumes most common amino acid corresponds to most common annotation
+        if similarity(domains,accuracy) and mostcommon(acids) != ('-', ''):
             targetDomain = mostcommon(domains)
             if blosumsop(acids,topology_matrix[target][sequence].aa,targetDomain) > 0:
                 topology_matrix[target][sequence].annotation = targetDomain
@@ -185,11 +185,9 @@ def blosumsop(acids,targetAA,targetDomain):
 
 
 
-
-
-
 def printMDA(query):
     target = MDA(query)
+    target.sequence = [x for x in target.sequence if x.aa != '-']
     overall = [0]
     count = 0
     for i in range(len(target)):
@@ -335,9 +333,6 @@ def secondary structure(residue_matrix, secondary_structure_list):
 
 
 """
-
-
-
 
 
 
