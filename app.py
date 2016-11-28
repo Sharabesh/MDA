@@ -7,11 +7,12 @@ import urllib
 import re
 from Bio.SubsMat.MatrixInfo import blosum62 as bs
 import sys
-
+import os
 #Methods for web application
 import tornado.ioloop
 import tornado.web
 import json
+import tornado.httpserver
 
 
 
@@ -273,7 +274,10 @@ def make_app():
 
 if __name__ == "__main__":
     app = make_app()
-    app.listen(5000)
+    http_server = tornado.httpserver.HTTPServer(app)
+    port = int(os.environ.get("PORT", 5000))
+    http_server.listen(port) # hosts on localhost:5000
+    print("Running Brainspell at http://localhost:5000...")
     tornado.ioloop.IOLoop.current().start()
 
 """ End Web Framework """ 
