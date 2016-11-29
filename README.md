@@ -16,3 +16,11 @@
   - Comment out those lines under if __name__ == "main" 
   - call printMDA using your target query (the sequence identifier) 
   - Note: The sequence identifier must be within the MSA. 
+
+
+
+
+
+
+
+###The project is live (using msa2.txt as an input MSA) on https://mdadevelopment.herokuapp.com/
