@@ -26,4 +26,4 @@
 ###The project is live (using msa2.txt as an input MSA) on https://mdadevelopment.herokuapp.com/
 
 
-![Alt text](App_image?raw=true "Application Description")
+![Alt text](Presentation/App_image?raw=true "Application Description")
