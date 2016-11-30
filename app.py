@@ -14,8 +14,6 @@ import tornado.web
 import json
 import tornado.httpserver
 
-
-
 # Use secondary structure prediction and blosum 62 sum across a column
 
 #Yields a list of topological annotations for each item in the text file 
@@ -215,7 +213,7 @@ class MainHandler(tornado.web.RequestHandler):
     def post(self):
         query = self.get_argument("query").strip()
         result = printMDA(query)
-        self.write("<h1 text-align='center'>The Toplogy for " + query + "</h1>")
+        self.write("<h1 text-align='center'>The Topology for " + query + "</h1>")
         self.write('<table id="gradient-style" class="Experiments" align="center">')
         self.write('<tr><td>' + "Domain</td>" + "<td>Start</td>" + "<td>End</td></tr>")
         for item in result:
@@ -289,8 +287,8 @@ If there is a non-matching residue in a secondary structure, it must adopt the s
 Can be conducted across columns and inserted as an additional pass to identify the true MDA of a protein (Pseudocode below). As it 
 stands, a misfit in a domain will be shown in PrintMDA as a two identical domains each half the length of the true domain 
 one after the other. The foundations for making this program into a web application is also provided. This would handle the 
-difficulties of the extensive secondary structure prediction times, using asynchronous request handling. 
-
+difficulties of the extensive secondary structure prediction times, using asynchronous request handling (the reason for the choice
+    of tornado as a HTTPS Server Rather than Flask). 
 
 This assumes that secondary structure can be parsed as a list and the residue matrix is already annotated
 def secondary structure(residue_matrix, secondary_structure_list):
@@ -333,8 +331,6 @@ def secondary structure(residue_matrix, secondary_structure_list):
     #Now iterate over a window k and ensure outliers are well matched 
     i = 0
     while (i +k) < len(residue_matrix[0]):
-
-
 
 """
 
